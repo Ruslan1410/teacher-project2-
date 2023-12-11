@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Обучение\teacher(project2)\teacher(project2)\bin\Debug\teacher(project2).exe.config
+C:\Users\admin\Desktop\Обучение\teacher(project2)\teacher(project2)\bin\Debug\teacher(project2).exe
+C:\Users\admin\Desktop\Обучение\teacher(project2)\teacher(project2)\bin\Debug\teacher(project2).pdb
+C:\Users\admin\Desktop\Обучение\teacher(project2)\teacher(project2)\obj\Debug\teacher(project2).csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\teacher(project2)\teacher(project2)\obj\Debug\teacher(project2).csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\teacher(project2)\teacher(project2)\obj\Debug\teacher(project2).exe
+C:\Users\admin\Desktop\Обучение\teacher(project2)\teacher(project2)\obj\Debug\teacher(project2).pdb
